@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lamborghini Sian
+* source:	https://sketchfab.com/3d-models/lamborghini-sian-a51ede12e3324eca8d5e76d8314c85d2
+* author:	DJS (https://sketchfab.com/s.jailen.jones)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lamborghini Sian" (https://sketchfab.com/3d-models/lamborghini-sian-a51ede12e3324eca8d5e76d8314c85d2) by DJS (https://sketchfab.com/s.jailen.jones) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
